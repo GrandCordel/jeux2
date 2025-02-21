@@ -1,0 +1,10 @@
+body{background-image: url(noir.jpg);
+  background-size: 1600px;
+}@font-face {
+  font-family: myFirstFont;
+  src: url(Papyrus.ttf);
+}
+
+* {
+  color:orange;
+  font-family: myFirstFont;
